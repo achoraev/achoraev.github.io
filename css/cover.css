@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: "../img/olympic_runners.png";
+  background: "img/olympic_runners.png";
 }
 body {
   color: #fff;
